@@ -13,7 +13,7 @@ From <b>Joinville SC, <img src="https://cdn-icons-png.flaticon.com/512/330/33043
 </div>
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
