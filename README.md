@@ -7,7 +7,7 @@ From <b>Joinville SC, <img src="https://cdn-icons-png.flaticon.com/512/330/33043
 
 
 
-<div>
+
 
 <a href="https://www.linkedin.com/in/filipe-x-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
@@ -15,7 +15,7 @@ From <b>Joinville SC, <img src="https://cdn-icons-png.flaticon.com/512/330/33043
 
  
 
-</div>
+
 
 
 
