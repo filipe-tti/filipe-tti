@@ -1,10 +1,10 @@
 <h1>Hello, I'm Filipe Silva 👋</h1>
 
-Frontend Engineer 💻 I love use technology to solve problems!
+Front-end developer 💻 I love use technology to solve problems!
 
 From <b>Joinville SC, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
 
-<p align="center">
+
 
 
 <div>
@@ -18,7 +18,7 @@ From <b>Joinville SC, <img src="https://cdn-icons-png.flaticon.com/512/330/33043
 </div>
 
 
-</p>
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
