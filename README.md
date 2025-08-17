@@ -7,7 +7,7 @@ From <b>Joinville SC, <img src="https://cdn-icons-png.flaticon.com/512/330/33043
 <p align="center">
 
 
-<div>
+<div  display: flex>
 
 <a href = "mailto:filipe18tti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
